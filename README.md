@@ -8,10 +8,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/samisaliveagain/kortex_imu_moveit_servo_gen3-portfolio.git
-
-cd kortex_imu_moveit_servo_gen3-portfolio
-```
+git clone -------
 
 ### 2. Build the Docker Image
 
