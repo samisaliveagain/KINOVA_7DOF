@@ -1,7 +1,3 @@
-# Portfolio note
-
-This is a standalone university/team project I worked on. The repository was imported as a clean single commit for resume and portfolio presentation.
-
 # Teleop of Kinova Gen3 Arm using ROS2 Humble
 ### *Controlling a Kinova Gen3 Arm Using Move-IT Servo with ROS2 IMU Sensor Data*
 
