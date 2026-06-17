@@ -7,7 +7,7 @@ This is a standalone university/team project I worked on. The repository was imp
 
 ---
 
-## 📦 Installation Instructions
+##  Installation Instructions
 
 ### 1. Clone the Repository
 
@@ -54,7 +54,7 @@ source /colcon_ws/install/setup.bash
 
 ---
 
-# 🔷 Sensor Information
+#  Sensor Information
 
 This project uses the following sensors:
 
@@ -79,7 +79,7 @@ This project uses the following sensors:
 
 ---
 
-# 🔷 Nodes and Packages Developed for Control
+#  Nodes and Packages Developed for Control
 
 1. **arm_servoing:** 
     - This is the main controller node that accepts the sensor data from the topics `/wifi/imu` and `/wifi/enc`.
@@ -99,7 +99,7 @@ This project uses the following sensors:
 
 ---
 
-# 🔷 Launching servo_riz controller
+#  Launching servo_riz controller
 
 The project controller can be launched using the following command:
 ```bash
@@ -117,4 +117,4 @@ Arguments:
 
 ---
 
-# 📘 End of README
+#  End of README
